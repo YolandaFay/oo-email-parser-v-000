@@ -16,9 +16,6 @@ class EmailParser
     else
       @emails.split(" ")
     end
-    
-    
-    
   end
   
 end
